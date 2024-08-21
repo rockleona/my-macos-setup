@@ -1,1 +1,1 @@
-source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+echo -n "source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh" >> ~/.zshrc
