@@ -1,1 +1,13 @@
+ca-certificates
+commitizen
 gh
+libyaml
+mpdecimal
+openssl@3
+pipx
+python@3.12
+readline
+sqlite
+starship
+xz
+zsh-autosuggestions

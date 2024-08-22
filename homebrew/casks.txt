@@ -1,0 +1,5 @@
+discord
+font-gohufont-nerd-font
+rectangle
+spotify
+visual-studio-code
